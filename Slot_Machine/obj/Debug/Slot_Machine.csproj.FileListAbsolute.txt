@@ -1,0 +1,12 @@
+C:\Users\krish\source\repos\Slot_Machine\Slot_Machine\bin\Debug\Slot_Machine.exe.config
+C:\Users\krish\source\repos\Slot_Machine\Slot_Machine\bin\Debug\Slot_Machine.exe
+C:\Users\krish\source\repos\Slot_Machine\Slot_Machine\bin\Debug\Slot_Machine.pdb
+C:\Users\krish\source\repos\Slot_Machine\Slot_Machine\obj\Debug\Slot_Machine.csproj.AssemblyReference.cache
+C:\Users\krish\source\repos\Slot_Machine\Slot_Machine\obj\Debug\Slot_Machine.Properties.Resources.resources
+C:\Users\krish\source\repos\Slot_Machine\Slot_Machine\obj\Debug\Slot_Machine.csproj.GenerateResource.cache
+C:\Users\krish\source\repos\Slot_Machine\Slot_Machine\obj\Debug\Slot_Machine.csproj.CoreCompileInputs.cache
+C:\Users\krish\source\repos\Slot_Machine\Slot_Machine\obj\Debug\Slot_Machine.exe
+C:\Users\krish\source\repos\Slot_Machine\Slot_Machine\obj\Debug\Slot_Machine.pdb
+C:\Users\krish\source\repos\Slot_Machine\Slot_Machine\obj\Debug\Slot_Machine.InstructionsScreen.resources
+C:\Users\krish\source\repos\Slot_Machine\Slot_Machine\obj\Debug\Slot_Machine.Slot_Machine.resources
+C:\Users\krish\source\repos\Slot_Machine\Slot_Machine\obj\Debug\Slot_Machine.KeyScreen.resources
