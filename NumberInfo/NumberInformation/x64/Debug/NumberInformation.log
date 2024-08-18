@@ -1,0 +1,3 @@
+﻿  NumberInformation.cpp
+C:\Users\krish\source\repos\NumberInformation\NumberInformation\NumberInformation.cpp(22,14): warning C4101: 'mynumber': unreferenced local variable
+  NumberInformation.vcxproj -> C:\Users\krish\source\repos\NumberInformation\x64\Debug\NumberInformation.exe
