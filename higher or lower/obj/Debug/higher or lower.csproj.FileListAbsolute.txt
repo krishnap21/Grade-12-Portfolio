@@ -1,0 +1,16 @@
+C:\Users\krish\source\repos\higher or lower\higher or lower\bin\Debug\higher or lower.exe.config
+C:\Users\krish\source\repos\higher or lower\higher or lower\bin\Debug\higher or lower.exe
+C:\Users\krish\source\repos\higher or lower\higher or lower\bin\Debug\higher or lower.pdb
+C:\Users\krish\source\repos\higher or lower\higher or lower\obj\Debug\higher or lower.csproj.AssemblyReference.cache
+C:\Users\krish\source\repos\higher or lower\higher or lower\obj\Debug\higher or lower.csproj.SuggestedBindingRedirects.cache
+C:\Users\krish\source\repos\higher or lower\higher or lower\obj\Debug\higher_or_lower.Properties.Resources.resources
+C:\Users\krish\source\repos\higher or lower\higher or lower\obj\Debug\higher or lower.csproj.GenerateResource.cache
+C:\Users\krish\source\repos\higher or lower\higher or lower\obj\Debug\higher or lower.csproj.CoreCompileInputs.cache
+C:\Users\krish\source\repos\higher or lower\higher or lower\obj\Debug\higher or lower.exe
+C:\Users\krish\source\repos\higher or lower\higher or lower\obj\Debug\higher or lower.pdb
+C:\Users\krish\source\repos\higher or lower\higher or lower\obj\Debug\higher_or_lower.StartScreen.resources
+C:\Users\krish\source\repos\higher or lower\higher or lower\obj\Debug\higher_or_lower.HelpScreen.resources
+C:\Users\krish\source\repos\higher or lower\higher or lower\obj\Debug\higher_or_lower.DifficultyScreen.resources
+C:\Users\krish\source\repos\higher or lower\higher or lower\obj\Debug\higher_or_lower.MedDifficulty.resources
+C:\Users\krish\source\repos\higher or lower\higher or lower\obj\Debug\higher_or_lower.HardDifficulty.resources
+C:\Users\krish\source\repos\higher or lower\higher or lower\obj\Debug\higher_or_lower.EasyDifficulty.resources
