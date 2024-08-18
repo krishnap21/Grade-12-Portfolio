@@ -1,0 +1,11 @@
+﻿  Payroll.cpp
+C:\Users\krish\source\repos\Payroll\Payroll\EmployeeObject.h(72,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\krish\source\repos\Payroll\Payroll\EmployeeObject.h(79,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\krish\source\repos\Payroll\Payroll\EmployeeObject.h(86,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\krish\source\repos\Payroll\Payroll\EmployeeObject.h(99,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\krish\source\repos\Payroll\Payroll\EmployeeObject.h(105,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\krish\source\repos\Payroll\Payroll\EmployeeObject.h(113,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\krish\source\repos\Payroll\Payroll\EmployeeObject.h(120,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\krish\source\repos\Payroll\Payroll\EmployeeObject.h(127,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\krish\source\repos\Payroll\Payroll\Payroll.cpp(18,12): warning C4101: 'myemployee': unreferenced local variable
+  Payroll.vcxproj -> C:\Users\krish\source\repos\Payroll\x64\Debug\Payroll.exe
